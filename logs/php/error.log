@@ -1,0 +1,463 @@
+[18-Dec-2025 02:29:54 UTC] Beaver Builder: URL change detected, cache cleared.
+[18-Dec-2025 03:06:53 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 314
+[18-Dec-2025 03:07:42 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 314
+[18-Dec-2025 03:08:35 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 314
+[18-Dec-2025 03:10:35 UTC] PHP Warning:  Undefined variable $group in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 307
+[18-Dec-2025 03:10:35 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 307
+[18-Dec-2025 03:10:35 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:307
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 307
+[18-Dec-2025 03:16:04 UTC] PHP Warning:  Undefined variable $group in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 307
+[18-Dec-2025 03:16:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 307
+[18-Dec-2025 03:16:04 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:307
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 307
+[18-Dec-2025 03:18:38 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 308
+[18-Dec-2025 03:22:24 UTC] PHP Warning:  Undefined variable $group in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 302
+[18-Dec-2025 03:22:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 302
+[18-Dec-2025 03:22:24 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:302
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 302
+[18-Dec-2025 03:45:47 UTC] PHP Parse error:  syntax error, unexpected identifier "ars", expecting "," or ";" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 283
+[18-Dec-2025 03:46:01 UTC] PHP Parse error:  syntax error, unexpected identifier "ars", expecting "," or ";" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 283
+[18-Dec-2025 03:46:16 UTC] PHP Parse error:  syntax error, unexpected identifier "ars", expecting "," or ";" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 283
+[18-Dec-2025 03:46:28 UTC] PHP Parse error:  syntax error, unexpected identifier "ars", expecting "," or ";" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 283
+[18-Dec-2025 03:46:29 UTC] PHP Parse error:  syntax error, unexpected identifier "ars", expecting "," or ";" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 283
+[18-Dec-2025 03:46:31 UTC] PHP Parse error:  syntax error, unexpected identifier "ars", expecting "," or ";" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 283
+[18-Dec-2025 03:47:38 UTC] PHP Warning:  Undefined variable $group in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 304
+[18-Dec-2025 03:47:38 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 304
+[18-Dec-2025 03:47:38 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:304
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 304
+[18-Dec-2025 03:52:36 UTC] PHP Parse error:  syntax error, unexpected identifier "vertical" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 302
+[18-Dec-2025 03:56:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameReflower\TableCell.php:40
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\TableCell->reflow(NULL)
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameReflower\TableRow.php(56): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\TableRow->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(NULL)
+#5 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameReflower\Page.php(142): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#6 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Page->reflow(NULL)
+#7 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\Dompdf.php(765): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#8 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(383): Dompdf\Dompdf->render()
+#9 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#10 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#11 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#12 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#13 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\vendor\dompdf\dompdf\src\FrameReflower\TableCell.php on line 40
+[18-Dec-2025 04:14:00 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 299
+[18-Dec-2025 04:14:07 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 299
+[18-Dec-2025 04:30:11 UTC] PHP Parse error:  syntax error, unexpected token "=" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 304
+[18-Dec-2025 04:31:22 UTC] PHP Parse error:  syntax error, unexpected token "=" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 304
+[18-Dec-2025 04:36:20 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 309
+[18-Dec-2025 04:37:02 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 309
+[18-Dec-2025 04:37:19 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 309
+[18-Dec-2025 04:37:57 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 309
+[18-Dec-2025 04:38:28 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 309
+[18-Dec-2025 04:40:50 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 309
+[18-Dec-2025 04:41:22 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 309
+[18-Dec-2025 04:45:18 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "-", expecting "," or ";" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 314
+[19-Dec-2025 02:37:21 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Mpdf" not found in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php:7
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(354): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php on line 7
+[19-Dec-2025 02:41:08 UTC] PHP Warning:  require_once(C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php on line 3
+[19-Dec-2025 02:41:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php:3
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(354): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php on line 3
+[19-Dec-2025 02:41:52 UTC] PHP Warning:  require_once(C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php on line 3
+[19-Dec-2025 02:41:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php:3
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(354): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php on line 3
+[19-Dec-2025 02:44:11 UTC] PHP Warning:  require_once(C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php on line 3
+[19-Dec-2025 02:44:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php:3
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(354): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php on line 3
+[19-Dec-2025 06:31:10 UTC] PHP Warning:  require_once(C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 5
+[19-Dec-2025 06:31:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:5
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 5
+[19-Dec-2025 06:31:50 UTC] PHP Warning:  require_once(C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 5
+[19-Dec-2025 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates/vendor/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:5
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 5
+[19-Dec-2025 06:33:33 UTC] PHP Fatal error:  Uncaught Error: Class "Mpdf\Config\ConfigVariables" not found in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:7
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 7
+[22-Dec-2025 02:13:25 UTC] PHP Parse error:  syntax error, unexpected token "=" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 29
+[23-Dec-2025 08:23:34 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 50
+[23-Dec-2025 08:23:47 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 50
+[23-Dec-2025 08:26:49 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 50
+[23-Dec-2025 08:30:22 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 51
+[23-Dec-2025 08:30:57 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 51
+[23-Dec-2025 08:31:09 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 51
+[23-Dec-2025 08:32:55 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 51
+[23-Dec-2025 08:33:13 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 51
+[23-Dec-2025 08:33:30 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 2
+[23-Dec-2025 08:33:30 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 3
+[23-Dec-2025 08:47:46 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 2
+[23-Dec-2025 08:47:46 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 3
+[23-Dec-2025 08:48:11 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 2
+[23-Dec-2025 08:48:11 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 3
+[23-Dec-2025 08:49:29 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 38
+[23-Dec-2025 08:49:51 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 2
+[23-Dec-2025 08:49:51 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 3
+[23-Dec-2025 08:50:18 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 2
+[23-Dec-2025 08:50:18 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 3
+[23-Dec-2025 08:51:37 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 54
+[23-Dec-2025 08:56:29 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 56
+[23-Dec-2025 08:56:44 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 56
+[23-Dec-2025 09:15:27 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 52
+[23-Dec-2025 09:16:20 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 47
+[23-Dec-2025 09:17:12 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 47
+[23-Dec-2025 09:18:17 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 46
+[23-Dec-2025 09:18:57 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 46
+[23-Dec-2025 09:19:13 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 46
+[23-Dec-2025 09:19:27 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 46
+[24-Dec-2025 06:17:52 UTC] PHP Warning:  Undefined variable $total_amount in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 336
+[24-Dec-2025 06:17:52 UTC] PHP Warning:  Undefined variable $discount_sub_total in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 337
+[24-Dec-2025 06:17:52 UTC] PHP Warning:  Undefined variable $vat_amount in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 338
+[24-Dec-2025 06:17:52 UTC] PHP Warning:  Undefined variable $total_amount_with_vat in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 339
+[24-Dec-2025 06:17:52 UTC] PHP Warning:  Undefined variable $include_all in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 341
+[24-Dec-2025 06:17:52 UTC] PHP Warning:  Undefined variable $include_all_map in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 342
+[24-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $total_amount in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 336
+[24-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $discount_sub_total in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 337
+[24-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $vat_amount in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 338
+[24-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $total_amount_with_vat in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 339
+[24-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $include_all in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 341
+[24-Dec-2025 06:17:58 UTC] PHP Warning:  Undefined variable $include_all_map in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php on line 342
+[24-Dec-2025 07:13:04 UTC] PHP Warning:  Undefined variable $path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 18
+[24-Dec-2025 07:13:04 UTC] PHP Warning:  Undefined variable $path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 19
+[24-Dec-2025 07:15:28 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 53
+[24-Dec-2025 07:15:28 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 60
+[24-Dec-2025 07:22:02 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 53
+[24-Dec-2025 07:22:02 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 60
+[24-Dec-2025 07:25:10 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 53
+[24-Dec-2025 07:25:10 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 60
+[24-Dec-2025 07:25:36 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 53
+[24-Dec-2025 07:25:36 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 60
+[24-Dec-2025 07:26:01 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 53
+[24-Dec-2025 07:26:01 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 60
+[24-Dec-2025 07:57:28 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 53
+[24-Dec-2025 07:57:28 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 60
+[24-Dec-2025 08:13:37 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 52
+[24-Dec-2025 08:13:37 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 59
+[24-Dec-2025 08:19:47 UTC] PHP Warning:  Undefined variable $font_path_regular in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 52
+[24-Dec-2025 08:19:47 UTC] PHP Warning:  Undefined variable $font_path_bold in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 59
+[24-Dec-2025 08:57:16 UTC] PHP Fatal error:  Cannot redeclare get_font_base64() (previously declared in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php:8) in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 35
+[24-Dec-2025 09:10:31 UTC] PHP Fatal error:  Cannot redeclare get_font_base64() (previously declared in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-header-template.php:8) in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 35
+[05-Jan-2026 09:06:57 UTC] PHP Warning:  Undefined variable $actual_colspan in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 218
+[05-Jan-2026 09:07:51 UTC] PHP Warning:  Undefined variable $actual_colspan in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 228
+[05-Jan-2026 09:07:54 UTC] PHP Warning:  Undefined variable $actual_colspan in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 228
+[05-Jan-2026 09:10:05 UTC] PHP Warning:  Undefined variable $actual_colspan in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 228
+[08-Jan-2026 03:33:26 UTC] PHP Fatal error:  Uncaught TypeError: preg_split(): Argument #3 ($limit) must be of type int, string given in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:417
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php(417): preg_split('\xC2\xA0', ' ', 'Service: Websit...')
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include('C:\\Users\\TBS-T1...')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#5 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#6 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 417
+[08-Jan-2026 03:34:15 UTC] PHP Warning:  Undefined variable $text in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 413
+[08-Jan-2026 03:34:15 UTC] PHP Fatal error:  Uncaught TypeError: preg_split(): Argument #3 ($limit) must be of type int, string given in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php:417
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php(417): preg_split('\xC2\xA0', ' ', 'Service: Websit...')
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\quote-generator.php(359): include('C:\\Users\\TBS-T1...')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#5 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#6 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\Quotation-Local-Tan-Quotation\templates\quote-content-template.php on line 417
+[09-Jan-2026 08:15:23 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-list-util.php on line 168
+[09-Jan-2026 08:15:23 UTC] PHP Warning:  Undefined property: stdClass::$plugin in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-list-util.php on line 168
+[09-Jan-2026 08:17:00 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Call to undefined method Mpdf\Mpdf::getFontDir() in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php:15
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(380): Mpdf\Mpdf->__call('getFontDir', Array)
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php on line 15
+[09-Jan-2026 08:31:57 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Call to undefined method Mpdf\Mpdf::getFontDir() in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php:15
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(380): Mpdf\Mpdf->__call('getFontDir', Array)
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php on line 15
+[09-Jan-2026 08:32:13 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Call to undefined method Mpdf\Mpdf::getFontDir() in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php:15
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(380): Mpdf\Mpdf->__call('getFontDir', Array)
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php on line 15
+[12-Jan-2026 02:13:21 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Call to undefined method Mpdf\Mpdf::getFontDir() in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php:15
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(380): Mpdf\Mpdf->__call('getFontDir', Array)
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Strict.php on line 15
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 32
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 32
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 32
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 32
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 33
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 36
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "va" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 93
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "txta" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 97
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\CssManager.php on line 1762
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "direction" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 242
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "cellLineHeight" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 258
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "cellLineStackingStrategy" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 263
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "cellLineStackingShift" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 268
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 340
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Td.php on line 413
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 533
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 533
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 533
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 533
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 570
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 571
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 573
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nc" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 573
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 576
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 578
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nr" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 578
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 583
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 653
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "direction" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 653
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 658
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21432
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "border_details" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21432
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21432
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21432
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21435
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "border_details" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21435
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21435
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21435
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21438
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "border_details" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21438
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21438
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21438
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21441
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "border_details" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21441
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21441
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21441
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nc" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21448
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nr" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21449
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nc" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19654
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nr" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19655
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19658
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 19661
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "cellLineHeight" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 801
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nc" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20123
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20126
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20129
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "level" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 20132
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined variable $fullpage in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 895
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined variable $maxrowheight in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 895
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nr" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 916
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined variable $remainingpage in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 1117
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined variable $maxfirstrowheight in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 1117
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "level" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21988
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "levelid" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21989
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nc" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21992
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "nr" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 21993
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22001
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22001
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22009
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22016
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22016
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22079
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22082
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22082
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22082
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 22082
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23278
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23281
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23281
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23284
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23292
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "borders_separate" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23309
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23310
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23310
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "max_cell_border_width" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23342
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23407
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 23407
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Undefined array key "margin" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 1156
+[12-Jan-2026 04:13:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php on line 1156
+[12-Jan-2026 04:13:43 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: Data has already been sent to output (C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Tag\Table.php at line 533), unable to output PDF file in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php:9579
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(405): Mpdf\Mpdf->Output('quote.pdf', 'I')
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 9579
+[12-Jan-2026 06:29:58 UTC] PHP Warning:  Undefined variable $colspan in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-content-template.php on line 196
+[15-Jan-2026 02:42:20 UTC] PHP Warning:  Undefined variable $colspan in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-content-template.php on line 254
+[15-Jan-2026 06:18:15 UTC] PHP Warning:  Undefined array key "MyCustomHeader" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 13475
+[15-Jan-2026 06:27:11 UTC] PHP Warning:  Undefined variable $mpdf in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-header-template.php on line 89
+[15-Jan-2026 06:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function SetHTMLHeader() on null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-header-template.php:89
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(355): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-header-template.php on line 89
+[15-Jan-2026 06:35:35 UTC] PHP Warning:  Undefined variable $mpdf in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-header-template.php on line 88
+[15-Jan-2026 06:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function SetHTMLHeader() on null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-header-template.php:88
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(355): include()
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#5 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\templates\quote-header-template.php on line 88
+[15-Jan-2026 06:35:45 UTC] PHP Warning:  Undefined array key "MyGlobalHeader" in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\mpdf\mpdf\src\Mpdf.php on line 13475
+[20-Jan-2026 02:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\TableCell.php:40
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\TableCell->reflow(Object(Dompdf\FrameDecorator\Block))
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(Object(Dompdf\FrameDecorator\Block))
+#5 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#6 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(Object(Dompdf\FrameDecorator\Block))
+#7 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#8 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(NULL)
+#9 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Page.php(142): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#10 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\Dompdf.php(765): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(377): Dompdf\Dompdf->render()
+#13 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#14 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#15 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#16 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#17 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\TableCell.php on line 40
+[20-Jan-2026 02:27:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_cellmap() on null in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\TableCell.php:40
+Stack trace:
+#0 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\TableCell->reflow(Object(Dompdf\FrameDecorator\Block))
+#1 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#2 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(Object(Dompdf\FrameDecorator\Block))
+#3 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#4 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(Object(Dompdf\FrameDecorator\Block))
+#5 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#6 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(Object(Dompdf\FrameDecorator\Block))
+#7 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Block.php(865): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow(Object(Dompdf\FrameDecorator\Block))
+#8 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Block->reflow(NULL)
+#9 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\Page.php(142): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#10 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameDecorator\AbstractFrameDecorator.php(913): Dompdf\FrameReflower\Page->reflow(NULL)
+#11 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\Dompdf.php(765): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#12 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\quote-generator.php(377): Dompdf\Dompdf->render()
+#13 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(341): process_quote_form('')
+#14 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#15 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#16 C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-admin\admin-post.php(82): do_action('admin_post_proc...')
+#17 {main}
+  thrown in C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\tbs-quotation-generator\vendor\dompdf\dompdf\src\FrameReflower\TableCell.php on line 40

@@ -1,0 +1,124 @@
+0000.141 (0) Opened log file at time: Mon, 19 Jan 2026 01:39:32 +0000 on http://tbs3.local
+0000.205 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.22.22.25 WP: 6.9 PHP: 8.2.27 (cgi-fcgi, Windows NT TBS-MARKETING 10.0 build 26100 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=1073741824) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 6.8M | 18M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.211 (0) Free space on disk containing Updraft's temporary directory: 44425.3 MB
+0000.241 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.255 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.271 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1768532530, seconds_ago=254242)
+0000.309 (0) Set semaphore last lock (fd) time to 2026-01-19 01:39:32
+0000.331 (0) Semaphore lock (fd) complete
+0000.443 (0) Backup run: resumption=0, nonce=ffefdea3bd61, file_nonce=ffefdea3bd61 begun at=1768786772 (0s ago), job type=backup
+0000.485 (0) Scheduling a resumption (1) after 300 seconds (1768787072) in case this run gets aborted
+0000.510 (0) Checking if we have a zip executable available
+0000.545 (0) Creation of backups of directories: beginning
+0000.578 (0) No backup of plugins: excluded by user's options
+0000.582 (0) No backup of themes: excluded by user's options
+0000.589 (0) No backup of uploads: excluded by user's options
+0000.595 (0) No backup of wpcore: excluded by user's options
+0000.600 (0) No backup of others: excluded by user's options
+0000.605 (0) No backup of more: excluded by user's options
+0000.625 (0) Saving backup status to database (elements: 0)
+0000.646 (0) Beginning creation of database dump (WordPress DB)
+0000.671 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0000.682 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0005.271 (0) Binary mysqldump: error (code: 2)
+0005.334 (0) Table wp_options: Total expected rows (via COUNT): 343
+0005.338 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0005.374 (0) Table wp_options: Rows added in this batch (next record: 14107): 339 (uncompressed bytes in this segment=760185) in 0.06 seconds
+0005.450 (0) Table wp_options: finishing file(s) (2, 73 KB)
+0005.492 (0) Table wp_users: Total expected rows (via COUNT): 19
+0005.502 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0005.530 (0) Table wp_users: Rows added in this batch (next record: 20): 19 (uncompressed bytes in this segment=4277) in 0.05 seconds
+0005.608 (0) Table wp_users: finishing file(s) (2, 1.6 KB)
+0005.693 (0) Table wp_usermeta: Total expected rows (via COUNT): 320
+0005.697 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0005.717 (0) Table wp_usermeta: Rows added in this batch (next record: 386): 320 (uncompressed bytes in this segment=19045) in 0.05 seconds
+0005.756 (0) Table wp_usermeta: finishing file(s) (2, 4.6 KB)
+0005.779 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0005.799 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=721) in 0.03 seconds
+0005.900 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0005.937 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0005.943 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0005.974 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2297) in 0.05 seconds
+0006.312 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0006.912 (0) Table wp_links: Total expected rows (via COUNT): 0
+0007.079 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1496) in 0.41 seconds
+0007.773 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0008.469 (0) Table wp_postmeta: Total expected rows (via COUNT): 50
+0008.475 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0008.494 (0) Table wp_postmeta: Rows added in this batch (next record: 209): 50 (uncompressed bytes in this segment=115886) in 0.58 seconds
+0008.548 (0) Table wp_postmeta: finishing file(s) (2, 6.2 KB)
+0008.585 (0) Table wp_posts: Total expected rows (via COUNT): 21
+0008.599 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0008.619 (0) Table wp_posts: Rows added in this batch (next record: 111): 21 (uncompressed bytes in this segment=9362) in 0.05 seconds
+0008.693 (0) Table wp_posts: finishing file(s) (2, 1.9 KB)
+0008.719 (0) Table wp_term_relationships: Total expected rows (approximate): 5
+0008.736 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 5 (uncompressed bytes in this segment=741) in 0.02 seconds
+0008.770 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0008.807 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 5
+0008.816 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0008.839 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1094) in 0.05 seconds
+0008.900 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0008.946 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0008.960 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.03 seconds
+0009.037 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0009.068 (0) Table wp_terms: Total expected rows (via COUNT): 5
+0009.077 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.090 (0) Table wp_terms: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=902) in 0.03 seconds
+0009.126 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0009.174 (0) Table wp_duplicator_pro_entities: Total expected rows (via COUNT): 5
+0009.180 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.197 (0) Table wp_duplicator_pro_entities: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=5405) in 0.04 seconds
+0009.278 (0) Table wp_duplicator_pro_entities: finishing file(s) (2, 1.7 KB)
+0009.327 (0) Table wp_duplicator_pro_packages: Total expected rows (via COUNT): 1
+0009.337 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.346 (0) Table wp_duplicator_pro_packages: Rows added in this batch (next record: 4): 1 (uncompressed bytes in this segment=11559) in 0.04 seconds
+0009.386 (0) Table wp_duplicator_pro_packages: finishing file(s) (2, 2.8 KB)
+0009.519 (0) Table wp_quote_history: Total expected rows (via COUNT): 1466
+0010.579 (0) Table wp_quote_history: Rows added in this batch (next record: 1466): 1466 (uncompressed bytes in this segment=11317267) in 1.17 seconds
+0010.633 (0) Table wp_quote_history: finishing file(s) (2, 319.5 KB)
+0010.648 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public/wp-content/updraft/backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db.gz (line 1917, C:\Users\TBS-T14-10thGen\Local Sites\tbs3\app\public\wp-content\plugins\updraftplus\backup.php)
+0010.668 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_options.table.tmpr14108.gz (1/15/fopen): adding to final database dump
+0010.686 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_options.table.gz (2/15/fopen): adding to final database dump
+0010.694 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_users.table.tmpr21.gz (3/15/fopen): adding to final database dump
+0010.707 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_users.table.gz (4/15/fopen): adding to final database dump
+0010.713 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_usermeta.table.tmpr387.gz (5/15/fopen): adding to final database dump
+0010.717 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_usermeta.table.gz (6/15/fopen): adding to final database dump
+0010.722 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_commentmeta.table.tmpr0.gz (7/15/fopen): adding to final database dump
+0010.729 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_commentmeta.table.gz (8/15/fopen): adding to final database dump
+0010.734 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_comments.table.tmpr2.gz (9/15/fopen): adding to final database dump
+0010.740 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_comments.table.gz (10/15/fopen): adding to final database dump
+0010.751 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_links.table.tmpr0.gz (11/15/fopen): adding to final database dump
+0010.757 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_links.table.gz (12/15/fopen): adding to final database dump
+0010.762 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_postmeta.table.tmpr210.gz (13/15/fopen): adding to final database dump
+0010.767 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_postmeta.table.gz (14/15/fopen): adding to final database dump
+0010.771 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_posts.table.tmpr112.gz (15/15/fopen): adding to final database dump
+0010.776 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_posts.table.gz (16/15/fopen): adding to final database dump
+0010.782 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_term_relationships.table.tmpr100001.gz (17/15/fopen): adding to final database dump
+0010.787 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_term_relationships.table.gz (18/15/fopen): adding to final database dump
+0010.792 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_term_taxonomy.table.tmpr6.gz (19/15/fopen): adding to final database dump
+0010.802 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_term_taxonomy.table.gz (20/15/fopen): adding to final database dump
+0010.811 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_termmeta.table.tmpr0.gz (21/15/fopen): adding to final database dump
+0010.822 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_termmeta.table.gz (22/15/fopen): adding to final database dump
+0010.830 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_terms.table.tmpr6.gz (23/15/fopen): adding to final database dump
+0010.837 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_terms.table.gz (24/15/fopen): adding to final database dump
+0010.841 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_duplicator_pro_entities.table.tmpr6.gz (25/15/fopen): adding to final database dump
+0010.847 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_duplicator_pro_entities.table.gz (26/15/fopen): adding to final database dump
+0010.855 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_duplicator_pro_packages.table.tmpr5.gz (27/15/fopen): adding to final database dump
+0010.862 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_duplicator_pro_packages.table.gz (28/15/fopen): adding to final database dump
+0010.870 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_quote_history.table.tmpr1467.gz (29/15/fopen): adding to final database dump
+0010.982 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db-table-wp_quote_history.table.gz (30/15/fopen): adding to final database dump
+0011.004 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db.gz: finished writing out complete database file (415 KB)
+0011.086 (0) Total database tables backed up: 15 (backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db.gz, size: 425047, sha1: 3adc155cc3fe7ff47323caed7e96d24da0927dfa, sha256: f25eb632d68e969fe8e5139142d3366223820fe5d10b8cd689a2086b28028448)
+0011.122 (0) backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db.gz: db: This file has not yet been successfully uploaded: will queue
+0011.132 (0) Saving backup history. Total backup size: 415.1 KB
+0011.154 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0011.169 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.174 (0) No remote despatch: user chose no remote backup service
+0011.178 (0) Recording as successfully uploaded: backup_2026-01-19-0139_TBS_Price_Quotation_Generator_ffefdea3bd61-db.gz
+0011.190 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0011.197 (0) Resume backup (ffefdea3bd61, 0): finish run
+0011.241 (0) Decremented the semaphore (fd) by 1
+0011.255 (0) Semaphore (fd) unlocked
+0011.260 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0011.279 (0) No email will/can be sent - the user has not configured an email address.
+0011.283 (0) The backup apparently succeeded and is now complete
